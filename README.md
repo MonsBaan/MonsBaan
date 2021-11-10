@@ -3,16 +3,8 @@
 
 <img align="right" alt="GIF" height="160px" src="https://i.ibb.co/ys7GSYc/Icono-Pinguino.png" />
 
-## I'm a curious Development Student 👨‍💻
-- 💻 I’m currently working on mobile development technologies like **Android, Typescript, Angular, Ionic, Symfony, DOCKER, AWS, etc.**
-- :test_tube: Knowledge of **Javascript, Java, SQL, NOSQL, PHP, AJAX, Linux and others.**
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- :speech_balloon: Interested in **cybersecurity****!
-- ⚡ Fun fact: reading lover 🥰
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aitorsobera@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitor-sobera-ortiz-de-z%C3%A1rate-745aa66b/)
+## Things That I Do 👨‍💻
+- 💻 A LOT OF STUFF IN 2 YEARS HOLY SHIT
 
 ### Languages I use 📑
 
@@ -27,8 +19,6 @@
 
 ### Tools and Others 🛠 
 
-![Amazon](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon)
-![DOCKER](https://img.shields.io/badge/-DOCKER-white?style=flat-square&logo=docker)
 ![Symfony](https://img.shields.io/badge/-SYMFONY-grey?style=flat-square&logo=symfony)
 ![Ionic](https://img.shields.io/badge/-Ionic-blue?style=flat-square&logo=ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)
